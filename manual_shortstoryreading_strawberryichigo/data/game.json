@@ -1,0 +1,11 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "ShortStoryReading",
+  "creator": "StrawberryIchigo",
+  "filler_item_name": "Old, Dusty Book",
+  "starting_items": [
+       {
+            "items": ["Owned Short Stories"]
+       }
+    ]
+}

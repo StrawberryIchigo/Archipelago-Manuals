@@ -1,0 +1,130 @@
+[
+  {
+    "count": 1,
+    "name": "Owned Short Stories",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Short Stories from the Library",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Uncanny Magazine",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Strange Horizons",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Reactor",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Clarkesworld",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Lightspeed",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "khoreo",
+    "category": [
+      "Small Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Shimmer Magazine",
+    "category": [
+      "Small Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "3",
+    "name": "Reuse a Prompt",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Read Any Story",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Hard to Easy",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Hard to Medium",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Medium to Easy",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Easy to Medium",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Easy to Hard",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  }
+]

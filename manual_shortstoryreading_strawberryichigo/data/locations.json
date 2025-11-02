@@ -1,0 +1,83 @@
+[
+  {
+    "name": "One Easy Prompt",
+    "region": "Main",
+    "category": [
+      "Easy"
+    ],
+    "requires": "|@Big Source:1|"
+  },
+  {
+    "name": "Two Easy Prompts",
+    "region": "Main",
+    "category": [
+      "Easy"
+    ],
+    "requires": "|@Big Source:1|"
+  },
+  {
+    "name": "Three Easy Prompts",
+    "region": "Main",
+    "category": [
+      "Easy"
+    ],
+    "requires": "|@Big Source:1|"
+  },
+  {
+    "name": "Four Easy Prompts",
+    "region": "Main",
+    "category": [
+      "Easy"
+    ],
+    "requires": "|@Big Source:2|"
+  },
+  {
+    "name": "Five Easy Prompts",
+    "region": "Main",
+    "category": [
+      "Easy"
+    ],
+    "requires": "|@Big Source:2|"
+  },
+  {
+    "name": "One Medium Prompt",
+    "region": "Main",
+    "category": [
+      "Medium"
+    ],
+    "requires": "|@Big Source:2|"
+  },
+  {
+    "name": "Two Medium Prompts",
+    "region": "Main",
+    "category": [
+      "Medium"
+    ],
+    "requires": "|@Big Source:3|"
+  },
+  {
+    "name": "Three Medium Prompts",
+    "region": "Main",
+    "category": [
+      "Medium"
+    ],
+    "requires": "|@Big Source:3|"
+  },
+  {
+    "name": "One Hard Prompt",
+    "region": "Main",
+    "category": [
+      "Hard"
+    ],
+    "requires": "|@Big Source:3|"
+  },
+  {
+    "name": "All Prompts Done",
+    "victory": true,
+    "region": "Main",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|@Big Source:3|"
+  }
+]
