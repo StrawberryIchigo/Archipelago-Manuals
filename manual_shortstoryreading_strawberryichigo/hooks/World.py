@@ -1,5 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
+from worlds.generic.Rules import set_rule
 from BaseClasses import MultiWorld, CollectionState, Item
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
@@ -109,6 +110,11 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
         # True if the player can access the location
         # CollectionState is defined in BaseClasses
         return True
+
+    locations = world.get_locations()
+    for loc in locations:
+        name = loc.name
+
 
     ## Common functions:
     # location = world.get_location(location_name, player)

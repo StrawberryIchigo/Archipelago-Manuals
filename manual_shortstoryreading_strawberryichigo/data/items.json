@@ -1,22 +1,30 @@
 [
   {
-    "count": 1,
-    "name": "Owned Short Stories",
+    "count": "1",
+    "name": "Short Stories You Own",
     "category": [
       "Big Sources"
     ],
     "progression": true
   },
   {
-    "count": 1,
-    "name": "Short Stories from the Library",
+    "count": "1",
+    "name": "Short Stories from Your Library",
     "category": [
       "Big Sources"
     ],
     "progression": true
   },
   {
-    "count": 1,
+    "count": "1",
+    "name": "Project Gutenberg",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
     "name": "Uncanny Magazine",
     "category": [
       "Big Sources"
@@ -24,7 +32,7 @@
     "progression": true
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Strange Horizons",
     "category": [
       "Big Sources"
@@ -32,7 +40,7 @@
     "progression": true
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Reactor",
     "category": [
       "Big Sources"
@@ -40,7 +48,7 @@
     "progression": true
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Clarkesworld",
     "category": [
       "Big Sources"
@@ -48,7 +56,7 @@
     "progression": true
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Lightspeed",
     "category": [
       "Big Sources"
@@ -56,18 +64,154 @@
     "progression": true
   },
   {
-    "count": 1,
-    "name": "khoreo",
+    "count": "1",
+    "name": "kh\u014dr\u00e9\u014d ",
     "category": [
       "Small Sources"
     ],
     "progression": true
   },
   {
-    "count": 1,
+    "count": "1",
+    "name": "The Deadlands",
+    "category": [
+      "Small Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Escape Pod",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "PodCastle",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Pseudopod",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Cast of Wonders",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "GigaNotoSaurus",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Beneath Ceaseless Skies",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Fireside Magazine",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
     "name": "Shimmer Magazine",
     "category": [
       "Small Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "The Book Smugglers",
+    "category": [
+      "Small Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Daily Science Fiction",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Nightmare Magazine",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Fantasy Magazine",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Sci Phi Journal",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Abyss & Apex Magazine",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Apex Magazine",
+    "category": [
+      "Big Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "IZ Digital",
+    "category": [
+      "Small Sources"
+    ],
+    "progression": true
+  },
+  {
+    "count": "1",
+    "name": "Diabolical Plots",
+    "category": [
+      "Big Sources"
     ],
     "progression": true
   },
@@ -80,7 +224,7 @@
     "useful": true
   },
   {
-    "count": 1,
+    "count": "1",
     "name": "Read Any Story",
     "category": [
       "Consumables"
