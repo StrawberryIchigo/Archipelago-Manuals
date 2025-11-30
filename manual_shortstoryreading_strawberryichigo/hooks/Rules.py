@@ -1,9 +1,25 @@
+from math import floor
+from operator import truediv
 from typing import Optional
 from worlds.AutoWorld import World
 from ..Helpers import clamp, get_items_with_value
 from BaseClasses import MultiWorld, CollectionState
 
 import re
+
+def enough_sources(world: World, state: CollectionState, player: int, source_quant: int):
+    """Converts the number of sources the player has into a value dependent on their size, and checks
+    whether that value is greater than or equal to the provided value."""
+    count: int = 0
+    for cat, items in world.item_name_groups:
+        if cat == "Big Sources":
+            count += state.count_from_list_unique(items,player) * 2
+        elif cat == "Small Sources":
+            count += state.count_from_list_unique(items,player)
+
+    if count >= source_quant:
+        return True
+    return False
 
 # Sometimes you have a requirement that is just too messy or repetitive to write out with boolean logic.
 # Define a function here, and you can use it in a requires string with {function_name()}.
